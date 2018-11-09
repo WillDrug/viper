@@ -1,4 +1,4 @@
-module github.com/spf13/viper
+module github.com/willdrug/viper
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
